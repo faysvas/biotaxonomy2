@@ -1,0 +1,31 @@
+{
+  "name": "biotaxonomy",
+  "version": "1.0.0",
+  "description": "[![Join the chat at https://gitter.im/faysvas/biotaxonomy2](https://badges.gitter.im/faysvas/biotaxonomy2.svg)](https://gitter.im/faysvas/biotaxonomy2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)\r Version 2.0 of BioTaxonomy using React",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faysvas/biotaxonomy2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faysvas/biotaxonomy2/issues"
+  },
+  "homepage": "https://github.com/faysvas/biotaxonomy2#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
